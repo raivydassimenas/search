@@ -30,3 +30,12 @@ form {
     margin: 1rem auto;
     border-radius: 1rem;
 }
+
+.links {
+    display: flex;
+    justify-content: right;
+}
+
+.links > a {
+    margin: 0.5rem;
+}
